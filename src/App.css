@@ -1,0 +1,15 @@
+img{
+   align-items: center;
+   margin-top: 20px;
+   border-color: goldenrod;
+   border-style: double;
+
+}
+.nom{
+    width: 150px;
+    background-color: goldenrod;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    transform: rotate(10deg);
+
+}
